@@ -1,0 +1,11 @@
+{
+    "cats": [{
+            "id": 1,
+            "race": "Persian"
+        },
+        {
+            "id": 1,
+            "race": "Persian"
+        }
+    ]
+}
